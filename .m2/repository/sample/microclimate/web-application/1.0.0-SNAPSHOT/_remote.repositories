@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Tue Jul 31 09:35:58 UTC 2018
+web-application-1.0.0-SNAPSHOT.pom>=
+web-application-1.0.0-SNAPSHOT.war>=
+web-application-1.0.0-SNAPSHOT-classes.jar>=
